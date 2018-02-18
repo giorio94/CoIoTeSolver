@@ -13,7 +13,7 @@ Politecnico di Torino (Italy). The team was composed by:
 The following description gives a brief insight about the topic and the
 purpose of this assignment; more information can be found inside the
 [Assignment Introduction](AssignmentIntroduction.pdf) PDF file, while the
-[Assignment Presentation](AssignmentPresentation.pdf) describes at a high level
+[Assignment Presentation](AssignmentPresentation/AssignmentPresentation.pdf) describes at a high level
 our implementation choices and strategies.
 
 *Disclaimer: the authors were not related to and did not work with TIM/Telecom
