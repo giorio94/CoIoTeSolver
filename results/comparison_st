@@ -1,0 +1,19 @@
+Co_30_1_ST_0        TOK  OOK  324   1.383  *****
+Co_30_20_ST_0       TOK  OOK  1068   5.889  ******
+Co_100_1_ST_0       TOK  OOK  6340  15.867  ******
+Co_100_20_ST_0      *** Not found in the optimal solutions file ***
+Co_300_20_ST_0      *** Not found in the optimal solutions file ***
+
+Total number of records: 3
+Number of records with error = 0: 0
+Number of records with error >= 0.1: 3
+Number of records with error >= 0.25: 3
+Number of records with error >= 0.5: 3
+Number of records with error >= 1: 3
+Number of records with error >= 2: 2
+
+Average error:  7.7129
+Median error:   5.889
+Maximum error: 15.867
+
+Average time:   4.750

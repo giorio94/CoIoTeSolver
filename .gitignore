@@ -1,0 +1,45 @@
+## Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Object files' directory
+obj/
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Doxygen output
+doxygen/html/
+
+# Input and output file
+input/
+output/
+scripts_linux/compare/*
+!scripts_linux/compare/optimal_solutions.csv
+
